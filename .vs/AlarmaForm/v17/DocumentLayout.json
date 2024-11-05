@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gaming\\source\\repos\\AlarmaForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED382D38-8584-400B-8D4A-B777DBFD1B77}|AlarmaForm\\AlarmaForm.csproj|c:\\users\\gaming\\source\\repos\\alarmaform\\alarmaform\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED382D38-8584-400B-8D4A-B777DBFD1B77}|AlarmaForm\\AlarmaForm.csproj|solutionrelative:alarmaform\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED382D38-8584-400B-8D4A-B777DBFD1B77}|AlarmaForm\\AlarmaForm.csproj|c:\\users\\gaming\\source\\repos\\alarmaform\\alarmaform\\usercontrol1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED382D38-8584-400B-8D4A-B777DBFD1B77}|AlarmaForm\\AlarmaForm.csproj|solutionrelative:alarmaform\\usercontrol1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED382D38-8584-400B-8D4A-B777DBFD1B77}|AlarmaForm\\AlarmaForm.csproj|C:\\Users\\Gaming\\source\\repos\\AlarmaForm\\alarmaform\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED382D38-8584-400B-8D4A-B777DBFD1B77}|AlarmaForm\\AlarmaForm.csproj|solutionrelative:alarmaform\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED382D38-8584-400B-8D4A-B777DBFD1B77}|AlarmaForm\\AlarmaForm.csproj|C:\\Users\\Gaming\\source\\repos\\AlarmaForm\\alarmaform\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED382D38-8584-400B-8D4A-B777DBFD1B77}|AlarmaForm\\AlarmaForm.csproj|solutionrelative:alarmaform\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED382D38-8584-400B-8D4A-B777DBFD1B77}|AlarmaForm\\AlarmaForm.csproj|c:\\users\\gaming\\source\\repos\\alarmaform\\alarmaform\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED382D38-8584-400B-8D4A-B777DBFD1B77}|AlarmaForm\\AlarmaForm.csproj|solutionrelative:alarmaform\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Gaming\\source\\repos\\AlarmaForm\\AlarmaForm\\Form2.cs",
+              "RelativeDocumentMoniker": "AlarmaForm\\Form2.cs",
+              "ToolTip": "C:\\Users\\Gaming\\source\\repos\\AlarmaForm\\AlarmaForm\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AlarmaForm\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T11:09:37.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserControl1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Gaming\\source\\repos\\AlarmaForm\\AlarmaForm\\UserControl1.cs",
+              "RelativeDocumentMoniker": "AlarmaForm\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\Gaming\\source\\repos\\AlarmaForm\\AlarmaForm\\UserControl1.cs [Design]",
+              "RelativeToolTip": "AlarmaForm\\UserControl1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T17:40:31.718Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Gaming\\source\\repos\\AlarmaForm\\AlarmaForm\\Form2.cs",
+              "RelativeDocumentMoniker": "AlarmaForm\\Form2.cs",
+              "ToolTip": "C:\\Users\\Gaming\\source\\repos\\AlarmaForm\\AlarmaForm\\Form2.cs",
+              "RelativeToolTip": "AlarmaForm\\Form2.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:15:27.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserControl1.cs",
+              "DocumentMoniker": "C:\\Users\\Gaming\\source\\repos\\AlarmaForm\\AlarmaForm\\UserControl1.cs",
+              "RelativeDocumentMoniker": "AlarmaForm\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\Gaming\\source\\repos\\AlarmaForm\\AlarmaForm\\UserControl1.cs",
+              "RelativeToolTip": "AlarmaForm\\UserControl1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:25:43.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControl1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Gaming\\source\\repos\\AlarmaForm\\AlarmaForm\\UserControl1.Designer.cs",
+              "RelativeDocumentMoniker": "AlarmaForm\\UserControl1.Designer.cs",
+              "ToolTip": "C:\\Users\\Gaming\\source\\repos\\AlarmaForm\\AlarmaForm\\UserControl1.Designer.cs",
+              "RelativeToolTip": "AlarmaForm\\UserControl1.Designer.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwCEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:25:36.093Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
